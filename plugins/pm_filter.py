@@ -5,11 +5,6 @@ import ast
 import math
 import random
 
-import sys
-from importlib import reload
-reload(sys)
-sys.setdefaultencoding('utf-8')
-
 from pyrogram.errors.exceptions.bad_request_400 import MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty
 from Script import script
 import pyrogram
