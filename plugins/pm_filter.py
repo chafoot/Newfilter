@@ -1240,8 +1240,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     
 async def auto_filter(client, msg, spoll=False):
-    reqstr1 = msg.from_user.id if msg.from_user else 0
-    reqstr = await client.get_users(reqstr1)
+    reqstr = msg.from_user.id if msg.from_user else 0
+    reqstr = await client.get_users(reqstr)
     if not spoll:
         message = msg
         settings = await get_settings(message.chat.id)
