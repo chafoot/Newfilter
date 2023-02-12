@@ -187,8 +187,8 @@ You have not searched this movie! If you want same movie please
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @letswatchhere
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @we4people
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
