@@ -27,9 +27,9 @@ async def answer(bot, query):
     
     if not await inline_users(query):
         await query.answer(results=[],
-                           string, file_type = query.query.split('|', maxsplit=1)
-        string = string.strip()
-        file_type = file_type.strip().lower()
+                           cache_time=0,
+                           switch_pm_text='okDa',
+                           switch_pm_parameter="hehe")
 
         return
 
