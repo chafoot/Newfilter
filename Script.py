@@ -183,14 +183,7 @@ You have not searched this movie! If you want same movie please
 <b> Caption : </b> <code> {file_caption}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @letswatchhere
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @we4people
-=========== • ✠ • ===========</b>"""
+</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
