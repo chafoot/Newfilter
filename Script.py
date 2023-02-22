@@ -180,7 +180,7 @@ You have not searched this movie! If you want same movie please
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-<code>/n {file_caption}</code>
+<code>/n {f_caption}</code>
 
 <b>
 </b>"""
