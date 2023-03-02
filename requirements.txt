@@ -9,3 +9,9 @@ bs4
 git+https://github.com/Joelkb/cinemagoer
 datetime
 pytz
+hachoir
+Pillow
+humanize
+aiofiles
+dnspython 
+pynewtonmath
