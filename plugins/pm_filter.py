@@ -1287,7 +1287,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"{file.file_name}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"{file.file_name}"
                 ),
             ]
             for file in files
